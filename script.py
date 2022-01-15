@@ -52,7 +52,7 @@ print(Fore.BLACK)
 
 print(Fore.BLACK)
 print(Fore.WHITE)
-print("https://vk.com/topgog666 Узнайте реальное имя этого человека (Олег это выдуманное)P.S. может помните с нами на занятиях был чувак 14-15 лет похожий на накромана это он")
+print("https://vk.com/topgog666 Узнайте реальное имя этого человека (Олег это выдуманное)")
 print(Fore.BLACK)
 print(Fore.BLACK)
 print(Fore.BLACK)
